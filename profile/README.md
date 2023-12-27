@@ -1,6 +1,6 @@
 # Alpha Software Development
 Alpha Software Development - организация, разрабатывающая ПО с открытым исходным кодом.
-![screenshot](https://github.com/Alpha-Software-Dev/.github/blob/3c67730e3e281f6a383b1a25183b5c13a0d8fb2d/New_logo.png)
+![screenshot](https://github.com/Alpha-Software-Dev/.github/blob/96a48515f638489f3422b3d8de50be32638957d8/Old_logo.png)
 
 Логотип Alpha Software Development
 # Проекты Alpha Software Development
